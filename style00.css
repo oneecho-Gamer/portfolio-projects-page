@@ -52,7 +52,7 @@ body {
     border-radius: 5px;
 }
 
-.link-active {
+.link:active {
     background-color: #85f1cb;
     border-radius: 5px;
 }
